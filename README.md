@@ -1,8 +1,8 @@
 # jessica vitoria louzada ribeiro
 
--estou estudando os cursos do alura 
--desenvolvendo os comandos no GitHUB
--melhorando minhas habilidadesem tecnologia 
+- estou estudando os cursos do alura 
+- desenvolvendo os comandos no GitHUB
+- melhorando minhas habilidadesem tecnologia 
 
 ##voce entrar em contato comigo##
 
